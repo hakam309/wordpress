@@ -2,7 +2,6 @@
 wordpress website
 
 
-
    1 Download and unzip the WordPress package if you haven’t already.
    2 Create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it.
    3 (Optional) Find and rename wp-config-sample.php to wp-config.php, then edit the file (see Editing wp-config.php) and add your database information.
